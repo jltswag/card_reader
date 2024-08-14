@@ -5,7 +5,7 @@ Address: This class has four fields, all of type String. It has a constructor th
 
 Person: This class has two fields, both of type String. The constructor takes three parameters, two of type String and one object of type Address. This class also has a toString method. 
 
-CrediCard: This class has a field of type Random. The constructor takes two objects as parameters, a Person and a Money object. It has five methods as shown in the diagram with the given parameters and the return types. 
+CreditCard: This class has a field of type Random. The constructor takes two objects as parameters, a Person and a Money object. It has five methods as shown in the diagram with the given parameters and the return types. 
 
 Money: This class has two fields, both of type int. It has two constructors, one with a parameter of type double and the other one with a parameter type Money. It has 4 methods as shown with the parameters and the return types. 
 
